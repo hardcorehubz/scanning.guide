@@ -44,7 +44,7 @@ weight: 3
     3. Bits per pixel: 48 bit RGB
     4. Media: Color
     5. Scan Resolution: 800 dpi (Note: If you're using a Canon scanner set this to 900dpi. Canon scanners operate optimally at intervals of 300dpi.)
-    6. Rotation: Optional, but I set mine to "None".
+    6. Rotation: Optional, but it can be to "None".
     7. Default Folder: Defaults to "Pictures", optional where you want to set it.
 12. In the "Crop" tab set "Crop size: Maximum".
 13. In the "Output" tab make the following changes:
