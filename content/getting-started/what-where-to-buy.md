@@ -7,7 +7,7 @@ The Epson Perfection v550 scanner is the sweet spot ([170$ on Amazon][1]). Anoth
 
 Another solid option is the Canon CanoScan 9000F Mark II ([Amazon Link][2]). It's around the same price as the Epson and has similar features.
 
-You will also need a Windows or Macintosh computer for the compatible software that usually comes bundled with the scanner. Linux is doable as well with the program [VueScan][3] as it supports most scanners in Linux.
+To interface with the scanner, you will need scanning software compatible with your computer. Most scanners come with their own complementary software which will give you some advanced options, and there is also [VueScan][3] which is compatible with Windows, Mac, and Linux OS. See the Software section for further details on set-up for your program of choice.
 
 [1]: https://www.amazon.com/gp/product/B00E1O74SW/
 [2]: https://www.amazon.com/gp/product/B00AGV7TQG

@@ -22,5 +22,4 @@ In the picture below you can see that the first few pages are completely torn of
 
 ![image](/img/unbound-book.jpg?width=40pc)
 
-
 [discord]: https://discord.gg/AHTfxQV
