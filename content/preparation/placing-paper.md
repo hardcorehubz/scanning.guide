@@ -16,7 +16,7 @@ These are great for scanning boxes due to their thickness but usually NOT manual
 Another option that's easier to trim down but isn't as easy to lineup as a square is [CARL RM-12/2 12-Inch Cutting Mat for all 12-Inch Trimmers][2].
 
 Example picture of Carpenter Square & Band-Aids:
-![image](../img/carpenter-square.jpg?width=25pc)
+![image](/img/carpenter-square.jpg?width=40pc)
 
 ## Alignment
 
@@ -27,6 +27,8 @@ Now place your square/rules along the corner of your scanner which you know has 
 Great for manual pages as they stop most pages from slipping underneath. These can be tricky to lineup, and you'll want to use small thin ones and place them along the edge of your scanner. Try to get them as straight as possible. They should then easily catch your manual pages when you scan them. Remember to **REMOVE your square or ruler** before scanning your manual pages, as its thickness will block the manual pages from getting as flat as possible. 
 
 Another important point when scanning a manual, consider removing the staples for a higher quality scan. Again place a book or something heavy to get the scan as flat as possible, and do a preview before scanning to make sure the manual pages are straight enough. These are notoriously hard to get straight so just do your best.
+
+Dealing with bleed-through is another thing you'll have to deal with, especially when scanning in white manual pages as they'll usually show text etc from the opposite side. An easy solution to this is to use some black construction paper or posterboard and place it on top of the thing you're scanning. One way to rig it up can be by trimming a sheet of posterboard that fit your scanner plate, and then tape it along the top of the scanner. Your scanner might looks a little weird with tape on it but it works!
 
 [1]: https://www.amazon.com/gp/product/B007MUO8K4/
 [2]: https://www.amazon.com/gp/product/B001UFF5HC/

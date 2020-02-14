@@ -5,4 +5,6 @@ weight: 1
 pre: "<b>1. </b>"
 ---
 
-## Make sure you get the right hardware!
+# Getting Started
+
+Make sure you get the right hardware!

@@ -5,4 +5,6 @@ weight: 2
 pre: "<b>2. </b>"
 ---
 
-## Make sure your gear is ready to scan
+# Preparation
+
+Make sure your gear is ready to use
