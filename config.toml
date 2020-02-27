@@ -42,13 +42,11 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]] 
 name = "<i class='fab fa-github'></i> Github repo"
-identifier = "ds"
 url = "https://github.com/hitsave/scanning.guide"
 weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-archive'></i> Scans on Archive.org"
-identifier = "hugodoc"
 url = "https://archive.org/search.php?query=subject%3A%22VGSC%22"
 weight = 20
 
