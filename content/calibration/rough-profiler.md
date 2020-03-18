@@ -7,15 +7,14 @@ weight: 5
 
 **What you'll need:**
 
-1. A computer: Windows, MacOS, or Linux.
-2. An [IT8 Color Card][it8] (choose "R1" option). Download the .it8 file for it as well from the same webpage, you can find the right zip to download by looking for the "Charge" number on your card (example: R131209) and searching for that number on the website. Unzip to somewhere were you can easily find it.
-3. Install Rough Profile scanning software:
-    [For macOS ][roughmac]
-    [For Windows (alpha)][roughwin]
+* A computer with either Windows or MacOS
+* The Reference File for your IT8 target.
+* RAW Scan of your IT8 card done in the same way you plan on scanning your boxes/manuals. (Same scanning software, same color bit depth)
+* You can download the Reference File for your IT8 target  from the same place you ordered it - http://www.targets.coloraid.de/. Simply scroll down to the section labeled “Download Reference Files” and under R1 looks for the Charger number printed on your IT8 target (example: R131209) and download and unzip that file. 
 
-**Calibration:**
-
-1. Test Chart - point to the RAW image of the card you scanned.
+* Install Rough Profile scanning software:
+  * [For macOS][roughmac]
+  * [For Windows (alpha)][roughwin]
 
 Here's how it looks on Windows:
 ![image](/img/rough-calibration-win1.png?width=40pc)
@@ -23,13 +22,24 @@ Here's how it looks on Windows:
 Here's how it looks on Mac:
 ![image](/img/rough-calibration-mac.jpg?width=40pc)
 
-2. Fill out Manufacturer and Model.
-3. Under **Advanced** make sure **Gamma is set to 1.0**
+**Calibration:**
+
+Upon launching you’ll need to set some options -
+
+1. **Chart Type**: IT8
+1. **Test Chart**: point to the RAW image of the card you scanned.
+1. **Reference**: Point to the .txt file you unzipped from your downloaded Reference file section mentioned above.
+1. **Quality**: High
+1. Fill out Manufacturer and Model of the scanner as well as a Profile Name. It can fail if this isn’t done for some silly reason.
+
+**NOTE** if you scanned in your IT8 target in Vuescan in 48-bit Color mode you’ll need to go to the Advanced Tab and set your Test Chart Gamma to 1.0. This is due to Vuescan stripping out the Gamma when set to this setting for some reason. (If you’re unsure just look at your IT8 card scan if it is very dark this is likely the case)
 
 ![image](/img/rough-calibration-win2.png?width=40pc)
 
-4. Once all that is set in Rough Profiler you click **Create It!** and wait a bit
-5. It should now have highlighted lines around your color squares and say finish!
+Once all that is set in Rough Profiler you click **Create It!** and wait a bit. It should now have highlighted lines around your color squares and say finish!
+
+**NOTE** If it errors out you may need to rescan your IT8 card. Make sure it’s straight as it can be, also that you cropped it well and that you didn’t scan it in a higher resolution than 800DPI. Also make sure you filled in the Profile Name, Manufacturer and Model fields. These are common issues in Rough Profiler. If it continues to fail I recommend trying the ArgyIICMS method instead.
+
 
 ![image](/img/rough-calibration-win3.png?width=40pc)
 

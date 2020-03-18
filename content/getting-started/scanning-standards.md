@@ -9,13 +9,19 @@ For most purposes, outside of photographs or slides, 24-bit color is sufficient 
 
 The purpose of 48-bit is for primarily reducing banding in smooth vignette/gradients while doing color and gradation (curves) adjustments in image editing programs. However the vast majority of game media (Boxes, Manuals, Labels etc.) were screen printed which means the artwork consists of CMYK dots. These are solid color dots mixed together which don’t produce vignettes/gradients.  If you zoom in on a 1200DPI scan at 100% you can easily make out the dots. A zoomed in 1200DPI scan will look a lot like what you’d see with a microscope on the physical item you’re scanning.
 
-We will keep the table of scanning standards as is, but leave it up to you, dear reader, to decide how you want to proceed.
+## What quality should I choose?
 
-## Scanning standards
+We will keep the table of scanning standards as is, but leave it up to you, dear reader, to decide how you want to proceed. The **Good** tier is required for the scan to be considered a VGPC/VGSC scan, and the **Overkill is not needed for our purposes right now**.
 
-| Tier	| Purpose of Tier	| DPI	|Bit Depth	|Format	|Post Processing	|Pre Processing	|ICC Profile	|RAW Files	|Inscan Color Swatches	|Flattening |
-|-|-|-|-|-|-------------------|---------------|---------------|-----------|-----------------------|------------|
-|Gold / Mastering	| To reproduce scanned media (digitally and physically) as close to the original as possible.	|1200 minimum 	|48	|TIFF + any (lossless) compression	|None - cropping OK	|None	|Calibrated for individual scanner	|Y	|Y	|No - HIGHLY encouraged (copper plates preferred). Media Compressed for 10 mins prior to, then while scanning|
-|Silver  |Preserve an artifact with a fair degree of reproduction	|1200	|48	|TIFF + any (lossless) compression	|None - cropping OK	|None	|Calibrated for individual scanner or Using generic profile for specific scanner model  |Y  |N 	|No|
-|Bronze	|Best Effort settings	|600	|24	|PNG or TIFF + any (lossless) compression	|None - cropping OK	|None	|Calibrated for individual scanner or  Using generic profile for specific scanner model	|Y	|N	|No|
-|Copper	|Catch and catalog all scanned video game related media for later rescanning	|Below 600 true / optical <br/> Any and all interpolated	|Any	|Any	|Any	|Any	|Any	|Y or N	|N	|No|
+## Color guides and flattening
+
+For the **Tiffen/Kodak Q-13 Color Separation Guides**, we recommend scanning in the guide as a separate scanned  image with the batch of items that are being scanned that date. Preferrably name that specific scan with the date for easy tracking.
+
+Regarding **Flattening**, it is _highly_ encouraged (copper plates preferred), but not required. Media can be compressed for 10 mins prior to, then while scanning (adding weight on top of the scanner). If your media is too bent or creased and no flattening will work, scan it anyway. A bent scan is better than no scan.
+
+## Scanning standards and requirements
+
+| Tier | Purpose of Tier | DPI | Bit Depth |Format |Post Processing | Pre Processing | ICC Profile |RAW Files	| Tiffen/Kodak Q-13 Color Separation Guide |Flattening |
+|--------|------------------|-|-|-|-------------------|---------------|---------------|-----------|-----------------------|------------|
+| Overkill | To reproduce scanned media (digitally and physically) as close to the original as possible.	| 1200 minimum | 48 | TIFF + any (lossless) compression	| None - cropping OK | None | Calibrated for individual scanner | Y | Y | No |
+| Good | Preserve an artifact with a good degree of reproduction | 1200 | 24 | PNG, due to its compression savings and compatibility | None - cropping OK | None | Calibrated for individual scanner or Using generic profile for specific scanner model | Y | N | No |

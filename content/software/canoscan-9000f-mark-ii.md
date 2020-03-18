@@ -1,5 +1,5 @@
 ---
-title: CanoScan 9000F Mark II
+title: CanoScan
 weight: 1
 ---
 
@@ -8,9 +8,7 @@ weight: 1
 This guide is for scanning based off our experience with a CanoScan 9000F Mark II.
 This may or may not be able to be applied to other Canon scanners.
 
-
-If you're unable to use Vuescan, then you'll need to install the CanoScan software that came with your scanner.
-This should include software called "ScanGear" or "Canon IJ Scan Utility". When opened it will look like this:
+You’ll need to install the CanoScan software that came with your scanner. This should include software called “ScanGear” or “Canon IJ Scan Utility”. When opened it will look like this:
 
 ![image](/img/Canon1.png)
 
@@ -18,32 +16,34 @@ Click the ScanGear button on the right side to get started. You'll be presented 
 
 ![image](/img/Canon2.png)
 
-To get a clean untouched RAW scan at the best quality we're going to need to adjust settings.
+## Advanced settings
+
+To get a clean untouched RAW scan at the best quality we're going to need to adjust settings. It’s best to click the Advanced Mode tab along the top to begin with. You’ll want to set your settings to the following:
+
+* Color Mode - 24-Bit is fine, but if you want to do 48-bit there are instructions in the section after this one on how to enable.
+* Output Resolution - 1200DPI
+* Unsharp Mask - Off
+* Descreen - Off
+* Reduce Dust and Scratches - None
+* Grain Correction - None
+* Gutter Shadow Correction - None
+
+The result of these settings will be a RAW scanner sensor output. It will result in a “flat” color profile that may not look pretty and fairly dull. However, this preserves the untouched image data for archival purposes and with an IT8 profile we can create and attach later it will look much better.
+
+Now you are ready to scan in your items in high quality with your CanoScan 9000F Mark II!
+
+## Enabling 48-bit (not required)
+
+If you want to enable 48-bit scanning continue below. **Again this is NOT required**. 
 
 1. Click the Advanced Mode tab along the top if you're not in that mode already.
-2. Click the Preferences button along the bottom of the screen.
-3. Go to the Scan tab of the Preferences window.
-4. Make sure **Enabled 48/16 bit Output** is checked.
+1. Click the Preferences button along the bottom of the screen.
+1. Go to the Scan tab of the Preferences window.
+1. Make sure **Enabled 48/16 bit Output** is checked.
 
 See highlighted picture below:
 
 ![image](/img/Canon3.png)
 
-5. Click the Color Settings tab
-6. Mark the **None** option and adjust the **Monitor Gamma** setting to 1.00.
+This will allow you to select 48-bit mode from your Canon Scanner if you choose to do so in the main scanner window.
 
-See highlighted picture below:
-
-![image](/img/Canon4.png)
-
-Click OK and you'll get back to the scanning screen. We'll need to make a few more adjustments here, but it should remember them from here on and you'll be ready to scan!
-
-7. In the **Color Mode** drop down menu, make sure it's set to **Color(48bit)**.
-8. Set your output resolution to at least **900dpi**.
-9. Make sure all **Image Settings** are **turned off** or set to **None**.
-
-See highlighted picture below:
-
-![image](/img/Canon5.png)
-
-Now you are ready to scan in your items in high quality with your CanoScan 9000F Mark II.

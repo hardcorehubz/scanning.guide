@@ -3,6 +3,8 @@ title: Using Diffusion Paper
 weight: 6
 ---
 
+_From community member FakeShemp_  
+
 When dealing with reflective media, such as CDs or covers with foil prints, flatbed scanners struggle a bit. CDs usually end up with rainbow patterns and [hot foil prints][1] can end up solid black. To counteract these imperfections, a layer of [diffusion media][2] can be added between the scanner glass and the medium you want to scan.
 
 A diffusion media is a semi-transparent sheet that scatters the light passing through it (diffuses it) and makes reflections and rainbows “wash out” from the scanned image.
