@@ -20,11 +20,9 @@ Some Recommended Scanners:
 * Canon Canoscan 9000F Mark II
 * Plustek OpticPro A320
 
-The **Epson Perfection v550** scanner is the sweet spot prise wide. Another scanner often mentioned in the same breath is the Epson Perfection v600, however it doesn't offer any added useful features or benefits for our purposes.
+The **Epson Perfection v550** scanner is the sweet spot pricewise. Another scanner often mentioned in the same breath is the Epson Perfection v600, however it doesn't offer any added useful features or benefits for our purposes.
 
 The Epson v550 is available through [B&H Photo][1], [Best Buy][2], and you can sometimes find them refurbished from [Epson][3].
-
-Another solid option is the Canon CanoScan 9000F Mark II. It's around the same price as the Epson and has similar features.
 
 To interface with the scanner, you will need scanning software compatible with your computer. Most scanners come with their own complementary software which will give you some advanced options, and there is also [VueScan][4] which is compatible with Windows, Mac, and Linux OS. See the Software section for further details on set-up for your program of choice.
 
