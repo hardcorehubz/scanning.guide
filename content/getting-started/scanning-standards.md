@@ -23,5 +23,14 @@ Regarding **Flattening**, it is _highly_ encouraged (copper plates preferred), b
 
 | Tier | Purpose of Tier | DPI | Bit Depth |Format |Post Processing | Pre Processing | ICC Profile |RAW Files	| Tiffen/Kodak Q-13 Color Separation Guide |Flattening |
 |--------|------------------|-|-|-|-------------------|---------------|---------------|-----------|-----------------------|------------|
-| Overkill | To reproduce scanned media (digitally and physically) as close to the original as possible.	| 1200 minimum | 48 | TIFF + any (lossless) compression	| None - cropping OK | None | Calibrated for individual scanner | Y | Y | No |
-| Good | Preserve an artifact with a good degree of reproduction | 1200 | 24 | PNG, due to its compression savings and compatibility | None - cropping OK | None | Calibrated for individual scanner or Using generic profile for specific scanner model | Y | N | No |
+| Archival | To reproduce scanned media (digitally and physically) as close to the original as possible. | 1200 minimum | 48 | TIFF + any (lossless) compression | None - cropping OK | None | Calibrated for individual scanner | Y | Y | No |
+| Preservation | Preserve an artifact with a good degree of reproduction | 1200 | 24 | PNG, due to its compression savings and compatibility | None - cropping OK | None | Calibrated for individual scanner | Y | N | No |
+
+If your scanner isn't capable of the above but you still want to help, here are a few best effort tiers. If there are higher quality scans available already of your item on [archive.org][https://archive.org] or other places, we would recommend against rescanning your item using any of these tier.
+
+However, if the item does not currently have a high quality scan, **a best effort scan is better than no scan!**
+
+| Tier | Purpose of Tier | DPI | Bit Depth |Format |Post Processing | Pre Processing | ICC Profile |RAW Files	| Tiffen/Kodak Q-13 Color Separation Guide |Flattening |
+|--------|------------------|-|-|-|-------------------|---------------|---------------|-----------|-----------------------|------------|
+| Best Effort | Best Effort settings | 600 | 24 | PNG or TIFF + any (lossless) compression | None - cropping OK | None |Calibrated for individual scanner or Using generic profile for specific scanner model | Y | N | No |
+| Quick cataloging | Catch and catalog all scanned video game related media for later rescanning | Below 600 true / optical <br/> Any and all interpolated | Any | Any | Any | Any | Any | Y or N | N |No|
