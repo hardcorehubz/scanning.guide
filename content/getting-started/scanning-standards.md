@@ -11,7 +11,7 @@ The purpose of 48-bit is for primarily reducing banding in smooth vignette/gradi
 
 ## What quality should I choose?
 
-We will keep the table of scanning standards as is, but leave it up to you, dear reader, to decide how you want to proceed. The **Good** tier is required for the scan to be considered a VGPC/VGSC scan, and the **Overkill is not needed for our purposes right now**.
+We will keep the table of scanning standards as is, but leave it up to you, dear reader, to decide how you want to proceed. The **Preservation** tier is required for the scan to be considered a VGPC/VGSC scan, and the **Archival tier is strived for but not required**.
 
 ## Color guides and flattening
 
@@ -26,7 +26,7 @@ Regarding **Flattening**, it is _highly_ encouraged (copper plates preferred), b
 | Archival | To reproduce scanned media (digitally and physically) as close to the original as possible. | 1200 minimum | 48 | TIFF + any (lossless) compression | None - cropping OK | None | Calibrated for individual scanner | Y | Y | No |
 | Preservation | Preserve an artifact with a good degree of reproduction | 1200 | 24 | PNG, due to its compression savings and compatibility | None - cropping OK | None | Calibrated for individual scanner | Y | N | No |
 
-If your scanner isn't capable of the above but you still want to help, here are a few best effort tiers. If there are higher quality scans available already of your item on [archive.org][https://archive.org] or other places, we would recommend against rescanning your item using any of these tier.
+If your scanner isn't capable of the above but you still want to help, here are a few best effort tiers. If there are higher quality scans available already of your item on [archive.org][archive] or other places, we would recommend against rescanning your item using any of these tier.
 
 However, if the item does not currently have a high quality scan, **a best effort scan is better than no scan!**
 
@@ -34,3 +34,5 @@ However, if the item does not currently have a high quality scan, **a best effor
 |--------|------------------|-|-|-|-------------------|---------------|---------------|-----------|-----------------------|------------|
 | Best Effort | Best Effort settings | 600 | 24 | PNG or TIFF + any (lossless) compression | None - cropping OK | None |Calibrated for individual scanner or Using generic profile for specific scanner model | Y | N | No |
 | Quick cataloging | Catch and catalog all scanned video game related media for later rescanning | Below 600 true / optical <br/> Any and all interpolated | Any | Any | Any | Any | Any | Y or N | N |No|
+
+[archive]: https://archive.org
