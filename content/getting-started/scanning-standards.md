@@ -15,6 +15,8 @@ The purpose of 48-bit is for primarily reducing banding in smooth vignette/gradi
 
 We will keep the table of scanning standards as is, but leave it up to you, dear reader, to decide how you want to proceed. The **Preservation** tier is required for the scan to be considered a VGPC/VGSC scan, and the **Archival tier is strived for but not required**.
 
+One important thing to note when scanning in 1200 vs 600dpi, is that if you want to do any sort of post-processing such as cleanup, a 1200dpi scan will be much easier to work with than a 600dpi one.
+
 ## Color guides and flattening
 
 For the **Tiffen/Kodak Q-13 Color Separation Guides**, we recommend scanning in the guide as a separate scanned  image with the batch of items that are being scanned that date. Preferrably name that specific scan with the date for easy tracking.
@@ -27,6 +29,8 @@ Regarding **Flattening**, it is _highly_ encouraged (copper plates preferred), a
 |--------|------------------|-|-|-|-------------------|---------------|---------------|-----------|-----------------------|------------|
 | Archival | To reproduce scanned media (digitally and physically) as close to the original as possible. | 1200 minimum | 48 | TIFF + any (lossless) compression | None - cropping OK | None | Calibrated for individual scanner | Y | Y | Y |
 | Preservation | Preserve an artifact with a good degree of reproduction | 1200 | 24 | PNG, due to its compression savings and compatibility | None - cropping OK | None | Calibrated for individual scanner | Y | N | Y |
+
+## Best effort scanning guidelines
 
 If your scanner isn't capable of the above but you still want to help, here are a few best effort tiers. If there are higher quality scans available already of your item on [archive.org][archive] or other places, we would recommend against rescanning your item using any of these tier.
 
